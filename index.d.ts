@@ -76,6 +76,8 @@ export interface Constants {
   DefaultPresets: Array<IDefaultPreset>;
 }
 
+export const Constants: Constants;
+
 export interface Presets {
   NoPreset: IFiltersProps;
   AmaroPreset: IFiltersProps;
@@ -91,8 +93,12 @@ export interface Presets {
   StinsonPreset: IFiltersProps;
 }
 
+export const Presets: Presets;
+
 export interface Utils {
   createPreset: (properties: IFiltersProps) => IFiltersProps;
 }
+
+export const Utils: Utils;
 
 export default function ImageFilters(props: IImageFiltersProps): React.ReactElement<{}>;
