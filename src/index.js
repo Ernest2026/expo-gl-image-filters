@@ -1,7 +1,7 @@
 import ImageFiltersComponent from './ImageFiltersComponent';
 
-export Constants from './constants';
-export Presets from './presets';
-export Utils from './utils';
+export { default as Constants } from './constants';
+export { default as Presets } from './presets';
+export { default as Utils } from './utils';
 
 export default ImageFiltersComponent;
