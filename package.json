@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GregoryNative/react-native-gl-image-filters.git"
+    "url": "git+https://github.com/Ernest2026/expo-gl-image-filters.git"
   },
   "author": "Gregory <gregorygalushka@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GregoryNative/react-native-gl-image-filters/issues"
+    "url": "https://github.com/Ernest2026/expo-gl-image-filters/issues"
   },
-  "homepage": "https://github.com/GregoryNative/react-native-gl-image-filters#readme",
+  "homepage": "https://github.com/Ernest2026/expo-gl-image-filters#readme",
   "peerDependencies": {
     "buffer": "^5.4.3",
     "gl-react": "^4.0.1",
